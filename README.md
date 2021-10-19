@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ajf1006
 - 👀 Experimental physicist (thermal micro-systems, spintronics, nano-devices)
 - 🌱 Currently learning how to numerically solve partial differential equations
-- 💞️ Looking to collaborate on experimental instrumentation
 - 📫 Email me at ajf1006@gmail.com
 
 
